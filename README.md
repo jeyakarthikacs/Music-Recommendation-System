@@ -1,4 +1,4 @@
-# Song Recommendation System
+# Music Recommendation System
 
 This project demonstrates a basic implementation of a Song Recommendation System using collaborative filtering techniques. The system generates recommendations for both new and existing users based on user preferences or their past ratings. The recommendations are presented visually using bar plots to show predicted scores or accuracies for recommended songs.
 
